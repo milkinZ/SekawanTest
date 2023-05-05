@@ -5,10 +5,10 @@ Database Server: 10.4.21-MariaDB
 Server Web: PHP: 8.0.10
 
 ## Daftar User
-# Admin
+1. Admin
 username: admin
 password: admin
-# Pihak yang Menyetujui
+1. Pihak yang Menyetujui
 username: budi
 password: budi
 
